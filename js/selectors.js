@@ -21,5 +21,6 @@ function divSelector()
 function firstListItem()
 {
   return $('#pic-list').add('ul img:first-child')
+  $( "input[id][name$='man']" )
 }
 
